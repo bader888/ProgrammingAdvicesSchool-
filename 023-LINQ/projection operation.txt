@@ -1,0 +1,4 @@
+select 
+select mant 
+select all 
+select many 
